@@ -1,0 +1,5 @@
+{
+  "name": "Prediccion de tendencia ",
+  "description": "An AI-powered stock price predictor that uses technical analysis and user-defined events to forecast future stock movements across various timeframes.",
+  "requestFramePermissions": []
+}
